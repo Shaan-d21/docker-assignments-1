@@ -3,8 +3,6 @@
 
 Containerize a web application using Docker, build a minimal-size Docker image, push it to Docker Hub with multiple tags, and deploy it using containers. Additionally, it verifies container networking by connecting to an nginx container from within the application container.
 
-Docker Container for a Web Application
-
 ## Objective
 
 The goal of this assignment is to containerize a simple web application using Docker. 
